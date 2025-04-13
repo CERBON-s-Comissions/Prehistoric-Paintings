@@ -27,7 +27,7 @@ dependencies {
     neoForge "net.neoforged:neoforge:${neo_version}"
 
     // Mod Dependencies
-    modImplementation "com.cerbon:cerbons_api-neoforge-${minecraft_version}:${cerbons_api_version}"
+    //modImplementation "com.cerbon:cerbons_api-neoforge-${minecraft_version}:${cerbons_api_version}"
 
     // Useful Mods
     modCompileOnlyApi "mezz.jei:jei-${minecraft_version}-neoforge-api:${jei_version}"
